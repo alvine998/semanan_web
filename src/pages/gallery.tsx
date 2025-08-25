@@ -3,8 +3,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import PropertyCard from "@/components/PropertyCard";
 import { useState } from "react";
-import Lightbox from "@/components/LightBox";
-
+import Lightbox from "@/components/Lightbox";
 interface Property {
   title: string;
   price: string;
